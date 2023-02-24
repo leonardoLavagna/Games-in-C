@@ -1,5 +1,5 @@
 # Games-in-C
-
+![hanoi_img](https://user-images.githubusercontent.com/91341004/221169390-2edc193f-1b73-4315-b97d-588a0cd708a5.jpeg)
 Some games implemented in C: Nim, Tris and Hanoi Towers!
 
 ### Whats in here?
