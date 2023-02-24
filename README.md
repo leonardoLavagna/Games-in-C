@@ -1,6 +1,9 @@
 # Games-in-C
 ![hanoi_img](https://user-images.githubusercontent.com/91341004/221169390-2edc193f-1b73-4315-b97d-588a0cd708a5.jpeg)
-Some games implemented in C: Nim, Tris and Hanoi Towers!
+Some games implemented in C: 
+- `Nim`;
+- `Tris`;
+- `Hanoi Towers`.
 
 ### Whats in here?
 Here you can find the following games developed in C: Nim, Tris and Hanoi Towers. To execute the code of a game either run it online, e.g. here: https://onlinegdb.com/eXkEZMznM (Tris, at each turn enter the number corresponding to the position in the grid you would like to mark), https://onlinegdb.com/SYl7JCxPk (Hanoi Towers, you can try and change the number of discs by changing the global variable `N_DISCHI 4` e.g. to `N_DISCHI 5` which is the maximum number of discs possible in this implementation),  https://onlinegdb.com/ajXKz_jMx (Nim, the computer will always win... at each turn write in input the number of elements you wish to remove) or use the command line, typically the following commands should work:
